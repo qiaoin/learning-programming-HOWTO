@@ -1,0 +1,11 @@
+#+TITLE: Learning Programming HOWTO
+#+AUTHOR: qiaoin
+#+EMAIL: qiao.liubing@gmail.com
+#+OPTIONS: toc:3 num:nil
+#+STARTUP: showall
+
+#+BEGIN_QUOTE
+关于编程，自己看过的资料，并对应地进行了认真的整理，包括但不限于笔记、思维导图、代码片段，etc.
+#+END_QUOTE
+
+新的一天，从这里启程。
